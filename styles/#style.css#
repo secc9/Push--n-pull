@@ -65,3 +65,12 @@ Should only affect all classes with this name
     color: darkred;
     font-size: 100px;
 }
+
+
+/* there's a bunch more you can do. I saw that you can make numerous divs with the same class name but different id's as well
+
+Hope this helps. If not we can hang out after class if you like
+
+Ash
+
+*/
