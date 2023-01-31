@@ -65,3 +65,10 @@ Should only affect all classes with this name
     color: darkred;
     font-size: 100px;
 }
+
+.blueBox{
+    padding: 10px;
+    height: 100px;
+    background-color: blue;
+    
+}
