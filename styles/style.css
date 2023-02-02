@@ -72,3 +72,14 @@ Should only affect all classes with this name
     background-color: blue;
     
 }
+
+.pinkBox{
+    padding: 10px;
+    height: 100px;
+    background-color: rgb(253, 2, 153);
+    text-align: center;
+    font-family: sans-serif;
+    color: rgb(75, 0, 251);
+    font-size: 50px;
+}
+
